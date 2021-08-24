@@ -1,0 +1,206 @@
+Country,CountryId,Gold,Silver,Bronze,Total
+USA,1,39,41,33,113
+Russia,2,20,28,23,71
+Germany,3,10,11,16,37
+UK,4,22,21,22,65
+France,5,10,12,11,33
+Italy,6,10,10,20,40
+China,7,38,32,18,88
+Australia,8,17,7,22,46
+Hungary,9,6,7,7,20
+Sweden,10,3,6,0,9
+Japan,11,27,14,17,58
+Netherlands,12,10,12,14,36
+Canada,13,7,6,11,24
+Finland,14,0,0,2,2
+Romania,15,1,3,0,4
+Poland,16,4,5,5,14
+South Korea,17,6,4,10,20
+Cuba,18,7,3,5,15
+Bulgaria,19,3,1,2,6
+Switzerland,20,3,4,6,13
+Denmark,21,3,4,4,11
+Czech Republic,22,4,4,3,11
+Belgium,23,3,1,3,7
+Spain,24,3,8,6,17
+Norway,25,4,2,2,8
+Greece,26,2,1,1,4
+Brazil,27,7,6,8,21
+Ukraine,28,1,6,12,19
+New Zealand,29,7,6,7,20
+Serbia,30,3,1,5,9
+Austria,31,1,1,5,7
+Kenya,32,4,4,2,10
+Turkey,33,2,2,9,13
+Belarus,34,1,3,3,7
+South Africa,35,1,2,0,3
+Jamaica,36,4,1,4,9
+Kazakhstan,37,0,0,8,8
+Argentina,38,0,1,2,3
+Iran,39,3,2,2,7
+Mexico,40,0,0,4,4
+Ethiopia,41,1,1,2,4
+Azerbaijan,43,0,3,4,7
+Croatia,44,3,3,2,8
+Georgia,45,2,5,1,8
+Uzbekistan,46,3,0,2,5
+Ireland,47,2,0,2,4
+Estonia,48,1,0,1,2
+Taiwan,49,2,4,6,12
+Indonesia,50,1,1,3,5
+India,51,1,2,4,7
+Colombia,52,0,4,1,5
+Egypt,53,1,1,4,6
+Slovakia,54,1,2,1,4
+Thailand,55,1,0,1,2
+Mongolia,56,0,1,3,4
+Portugal,57,1,1,2,4
+Slovenia,58,3,1,1,5
+Lithuania,59,0,1,0,1
+Nigeria,60,0,1,1,2
+Morocco,61,1,0,0,1
+Trinidad,62,0,0,0,0
+Latvia,63,1,0,1,2
+Armenia,64,0,2,2,4
+Venezuela,65,1,3,0,4
+Algeria,66,0,0,0,0
+Bahamas,67,2,0,0,2
+Tunisia,68,1,1,0,2
+Philippines,69,1,2,1,4
+Malaysia,70,0,1,1,2
+Chile,71,0,0,0,0
+Israel,72,2,0,2,4
+Dominican Republic,73,0,3,2,5
+Uganda,74,2,1,1,4
+Puerto Rico,75,1,0,0,1
+Uruguay,76,0,0,0,0
+Pakistan,77,0,0,0,0
+Moldova,78,0,0,1,1
+Zimbabwe,79,0,0,0,0
+Qatar,80,2,0,1,3
+Syria,81,0,0,1,1
+Luxembourg,82,0,0,0,0
+"Hong Kong, China",83,1,2,3,6
+Kyrgyzstan,84,0,2,1,3
+Cameroon,85,0,0,0,0
+Namibia,86,0,1,0,1
+Singapore,87,0,0,0,0
+Ecuador,88,2,1,0,3
+Ghana,89,0,0,1,1
+Bahrain,91,0,1,0,1
+Saudi Arabia,92,0,1,0,1
+Ivory Coast,93,0,0,1,1
+Costa Rica,94,0,0,0,0
+Peru,95,0,0,0,0
+Tajikistan,96,0,0,0,0
+Iceland,97,0,0,0,0
+Vietnam,98,0,0,0,0
+Lebanon,99,0,0,0,0
+Haiti,100,0,0,0,0
+San Marino,101,0,1,2,3
+Kuwait,102,0,0,1,1
+Kosovo,103,2,0,0,2
+Jordan,104,0,1,1,2
+Fiji,105,1,0,1,2
+Grenada,106,0,0,1,1
+Panama,107,0,0,0,0
+Niger,108,0,0,0,0
+Sri Lanka,109,0,0,0,0
+Tanzania,110,0,0,0,0
+Mozambique,111,0,0,0,0
+United Arab Emirates,112,0,0,0,0
+Zambia,113,0,0,0,0
+Suriname,114,0,0,0,0
+Afghanistan,115,0,0,0,0
+Botswana,116,0,0,1,1
+Burundi,117,0,0,0,0
+Macedonia,118,0,1,0,1
+Bermuda,119,1,0,0,1
+Cyprus,120,0,0,0,0
+Barbados,121,0,0,0,0
+Burkina Faso,122,0,0,1,1
+Guatemala,123,0,0,0,0
+Paraguay,124,0,0,0,0
+Togo,125,0,0,0,0
+Tonga,126,0,0,0,0
+Eritrea,128,0,0,0,0
+Guyana,129,0,0,0,0
+Turkmenistan,130,0,1,0,1
+Iraq,131,0,0,0,0
+Gabon,132,0,0,0,0
+Sudan,133,0,0,0,0
+Senegal,134,0,0,0,0
+Mauritius,135,0,0,0,0
+"Virgin Islands, US",136,0,0,0,0
+Djibouti,137,0,0,0,0
+Monaco,138,0,0,0,0
+Montenegro,139,0,0,0,0
+Cambodia,140,0,0,0,0
+Comoros,141,0,0,0,0
+Brunei,142,0,0,0,0
+South Sudan,143,0,0,0,0
+Chad,144,0,0,0,0
+Cape Verde,145,0,0,0,0
+Cook Islands,146,0,0,0,0
+Central African Republic,147,0,0,0,0
+Somalia,149,0,0,0,0
+Solomon Islands,150,0,0,0,0
+Cayman Islands,151,0,0,0,0
+Mali,152,0,0,0,0
+Bosnia and Herzegovina,153,0,0,0,0
+Timor-Leste,154,0,0,0,0
+American Samoa,155,0,0,0,0
+Yemen,156,0,0,0,0
+"Virgin Islands, British",157,0,0,0,0
+Andorra,158,0,0,0,0
+Angola,159,0,0,0,0
+Vanuatu,160,0,0,0,0
+Antigua,161,0,0,0,0
+Aruba,162,0,0,0,0
+Bangladesh,164,0,0,0,0
+Belize,165,0,0,0,0
+Benin,166,0,0,0,0
+Tuvalu,167,0,0,0,0
+Bhutan,168,0,0,0,0
+Bolivia,170,0,0,0,0
+Dominica,171,0,0,0,0
+Democratic Republic of the Congo,172,0,0,0,0
+Palau,173,0,0,0,0
+Honduras,174,0,0,0,0
+Kiribati,175,0,0,0,0
+Laos,176,0,0,0,0
+Nicaragua,177,0,0,0,0
+Lesotho,178,0,0,0,0
+Liberia,179,0,0,0,0
+Nepal,180,0,0,0,0
+Nauru,181,0,0,0,0
+Albania,182,0,0,0,0
+Myanmar,183,0,0,0,0
+Liechtenstein,184,0,0,0,0
+Madagascar,185,0,0,0,0
+Malawi,186,0,0,0,0
+Micronesia,187,0,0,0,0
+Maldives,188,0,0,0,0
+Mauritania,189,0,0,0,0
+Marshall Islands,190,0,0,0,0
+Oman,191,0,0,0,0
+Palestine,192,0,0,0,0
+Sierra Leone,193,0,0,0,0
+Guinea-Bissau,194,0,0,0,0
+Seychelles,195,0,0,0,0
+Malta,196,0,0,0,0
+Sao Tome and Principe,197,0,0,0,0
+El Salvador,198,0,0,0,0
+Samoa,199,0,0,0,0
+Saint Vincent,200,0,0,0,0
+Saint Lucia,201,0,0,0,0
+Saint Kitts,202,0,0,0,0
+Rwanda,203,0,0,0,0
+Equatorial Guinea,204,0,0,0,0
+Refugee Olympic Athletes,206,0,0,0,0
+Eswatini,207,0,0,0,0
+Gambia,208,0,0,0,0
+Guam,209,0,0,0,0
+Guinea,210,0,0,0,0
+Papua New Guinea,211,0,0,0,0
+Libya,212,0,0,0,0
